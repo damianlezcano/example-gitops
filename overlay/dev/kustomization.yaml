@@ -4,5 +4,5 @@ bases:
   - ../../base
 images:
   - name: example-app-image
-    newName: chentex/go-rest-api:latest
+    newName: chentex/go-rest-api
     newTag: "latest"
