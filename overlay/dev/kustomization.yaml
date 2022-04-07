@@ -4,5 +4,5 @@ bases:
   - ../../base
 images:
   - name: example-app-image
-    newName: image-registry.openshift-image-registry.svc:5000/openshift/devfile-sample-python-basic
+    newName: chentex/go-rest-api:latest
     newTag: "latest"
